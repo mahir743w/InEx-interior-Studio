@@ -1,0 +1,6 @@
+{
+  "name": "INEX Interior Studio",
+  "description": "Bespoke architectural interiors, spatial refinement, and luxury turnkey living spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
